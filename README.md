@@ -1,6 +1,8 @@
 # adjacent-interactive-reading-typing
 interactive sketch for adjacent's issue 5 "the rite of computing" article, by Sejo. 
 
+Sketch hosted here: https://frosty-noether-4ae3e5.netlify.com/
+
 ## Instructions: 
 - To read the article you need to type it.
 - A input box at the top shows the first sentence of the text in light grey.
