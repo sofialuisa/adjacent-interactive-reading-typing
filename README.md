@@ -10,3 +10,7 @@ Sketch hosted here: https://frosty-noether-4ae3e5.netlify.com/
 - As the text is typed correctly, the sentences turns black. 
 - When you correctly finished typing one line, it will be transfromed into binary coded and acumulated in the black window in the bottom of the sketch.
 - The next sentenced is displayed, and the same interaction process is expected. 
+
+### Credits:
+Sofía Suazo
+Guillermo Montecinos
