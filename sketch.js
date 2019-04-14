@@ -49,7 +49,7 @@ text(line, 25, 20, binaryBox*2, 25);
 //write each letter of line in black
 //as it is being typed
 fill(0);
-text(line.substring(0, whichLetter), 25s, 20, windowWidth-20, binaryBox);
+text(line.substring(0, whichLetter), 25, 20, windowWidth-20, binaryBox);
 
 rect(20, 60, binaryBox*2, binaryBox);
 for(let i = 0; i < binary.length; i++){
