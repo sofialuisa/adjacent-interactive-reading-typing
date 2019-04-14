@@ -12,5 +12,4 @@ Sketch hosted here: https://frosty-noether-4ae3e5.netlify.com/
 - The next sentenced is displayed, and the same interaction process is expected. 
 
 ### Credits:
-Sofía Suazo
-Guillermo Montecinos
+Sofía Suazo and Guillermo Montecinos
